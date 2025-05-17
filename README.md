@@ -28,10 +28,10 @@ The game runs entirely in the terminal and allows two players to take turns on t
 ├── main.dart        # Main Dart file containing game logic
 └── README.md        # Project documentation
 ## Sample Output
-   1 | 2 | 3
-  ---+---+---
-   4 | 5 | 6
-  ---+---+---
-   7 | 8 | 9
+    1 | 2 | 3
+    ---+---+---
+    4 | 5 | 6
+    ---+---+---
+    7 | 8 | 9
 
 Player X, enter your move (1-9): 
